@@ -1,4 +1,6 @@
 ﻿Onekp_index_id,Phyto_species,Species,Description,Order
+MTII,Aamericanus_v1.1,Acorus_americanus,Monocots/Commelinids,Acorales
+Aquco_v1.1,Acoerulea_v3.1,Aquilegia_coerulea,Eudicots,Ranunculales
 ,Acomosus_v3,Ananas_comosus,Monocots/Commelinids,Poales
 ,Ahalleri_v1.1,Arabidopsis_halleri,Core_eudicots/Rosids,Brassicales
 ,Ahypochondriacus_v2.1,Amaranthus_hypochondriacus,Eudicots,Caryophyllales
@@ -7,6 +9,7 @@
 ,Alyrata_v2.1,Arabidopsis_lyrata,Core_eudicots/Rosids,Brassicales
 ,Aoccidentale_v0.9,Anacardium_occidentale,Core_eudicots/Rosids,Sapindales
 ,Aofficinalis_V1.1,Asparagus_officinalis,Monocots/Commelinids,Asparagales
+Ambtr_v1.0.27,Atrichopoda_v1.0,Amborella_trichopoda,Basal_angiosperms,Amborellales
 ,Bbraunii_v2.1,Botryococcus_braunii,Eudicots,Caryophyllales
 ,Bdistachyon_v3.2,Brachypodium_distachyon,Monocots/Commelinids,Poales
 ,Bhybridum_v1.1,Brachypodium_hybridum,Monocots/Commelinids,Poales
@@ -17,6 +20,7 @@
 ,Bstacei_v1.1,Brachypodium_stacei,Monocots/Commelinids,Poales
 ,Bstricta_v1.2,Boechera_stricta,Core_eudicots/Rosids,Brassicales
 ,Bsylvaticum_v1.1,Brachypodium_sylvaticum,Monocots/Commelinids,Poales
+Betvu_v1.1,Bvulgaris_EL10_1.0,Beta_vulgaris,Eudicots,Caryophyllales
 ,Camplexicaulis_v1.1,Caulanthus_amplexicaulis,Core_eudicots/Rosids,Brassicales
 ,Carabica_v0.5,Coffea_arabica,Core_eudicots/Asterids,Gentianales
 ,Carietinum_v1.0,Cicer_arietinum,Core_eudicots/Rosids,Fabales
@@ -29,18 +33,24 @@
 ,Ckanehirae_v3,Cinnamomum_kanehirae,Magnoliids,Laurales
 ,Claxum_v1.1,Chasmanthium_laxum,Monocots/Commelinids,Poales
 ,Cmaritima_v1.1,Cakile_maritima,Core_eudicots/Rosids,Brassicales
+Carpa_ASGPBv0.4,Cpapaya_ASGPBv0.4,Carica_papaya,Core_eudicots/Rosids,Brassicales
+FFPD,Cpurpureus_GG1_v1.1,Ceratodon_purpureus,Bryophytes,Dicranales
+SMMC,Cquinoa_v1.0,Chenopodium_quinoa,Eudicots,Caryophyllales
 ,Creinhardtii_v5.6,Chlamydomonas_reinhardtii,Chlorophyta_algae,Chlamydomonadales
 ,Crichardii_v2.1,Ceratopteris_richardii,LeptosporangiateFerns,Polypodiales
 ,Crubella_v1.1,Capsella_rubella,Core_eudicots/Rosids,Brassicales
 ,Csativus_v1.0,Cucumis_sativus,Core_eudicots/Rosids,Cucurbitales
 ,Csinensis_v1.1,Citrus_sinensis,Core_eudicots/Rosids,Sapindales
 ,CsubellipsoideaC-169_v2.0,Coccomyxa_subellipsoidea,Chlorophyta_algae,Trebouxiophyceae
+LVUS,Cviolacea_v2.1,Cleome_violacea,Core_eudicots/Rosids,Brassicales
 ,Czofingiensis_v5.2.3.2,Chromochloris_zofingiensis,Chlorophyta_algae,Sphaeropleales
-,Dalata_v1.1,Dioscorea_alata,Monocots/Commelinids,Dioscoreales
+,Dalata_v2.1,Dioscorea_alata,Monocots/Commelinids,Dioscoreales
 ,Dcarota_v2.0,Daucus_carota,Core_eudicots/Asterids,Apiales
 ,Dsalina_v1.0,Dunaliella_salina ,Chlorophyta_algae,Chlamydomonadales
 ,Dsophioides_v1.1,Descurainia_sophioides,Core_eudicots/Rosids,Brassicales
 ,Dstrictus_v2.1,Diptychocarpus_strictus,Core_eudicots/Rosids,Brassicales
+EFCZ,Ecoracana_v1.1,Eleusine_coracana,Monocots/Commelinids,Poales
+Eucgr_v1.1,Egrandis_v2.0,Eucalyptus_grandis,Core_eudicots/Rosids,Myrtales
 ,Esalsugineum_v1.0,Eutrema_salsugineum,Core_eudicots/Rosids,Brassicales
 ,Esyriacum_v1.1,Euclidium_syriacum,Core_eudicots/Rosids,Brassicales
 ,Evesicaria_v1.1,Eruca_vesicaria,Core_eudicots/Rosids,Brassicales
@@ -52,11 +62,14 @@
 ,Gmax_Wm82.a4.v1,Glycine_max,Core_eudicots/Rosids,Fabales
 ,Gmustelinum_v1.1,Gossypium_mustelinum,Core_eudicots/Rosids,Malvales
 ,Graimondii_v2.1,Gossypium_raimondii,Core_eudicots/Rosids,Malvales
+KEGA,Gsoja_v1.1,Glycine_soja,Core_eudicots/Rosids,Fabales
 ,Gtomentosum_v1.1,Gossypium_tomentosum,Core_eudicots/Rosids,Malvales
 ,Hannuus_r1.2,Helianthus_annuus,Core_eudicots/Asterids,Asterales
+ZETY,Hquercifolia_v1.1,Hydrangea_quercifolia,Core_eudicots/Asterids,Cornales
 ,Hvulgare_r1,Hordeum_vulgare,Monocots/Commelinids,Poales
 ,Iamara_v1.1,Iberis_amara,Core_eudicots/Rosids,Brassicales
 ,Itinctoria_v1.1,Isatis_tinctoria,Core_eudicots/Rosids,Brassicales
+WXNT,Jascendens_v1.1,Joinvillea_ascendens,Monocots/Commelinids,Poales
 ,Kfedtschenkoi_v1.1,Kalanchoe_fedtschenkoi,Core_eudicots,Saxifragales
 ,Klaxiflora_v1.1,Kalanchoe_laxiflora,Core_eudicots,Saxifragales
 ,Lalbus_v1,Lupinus_albus,Core_eudicots/Rosids,Fabales
@@ -64,7 +77,10 @@
 ,Ljaponicus_Lj1.0v1,Lotus_japonicus,Core_eudicots/Rosids,Fabales
 ,Lsativa_V8,Lactuca_sativa,Core_eudicots/Asterids,Asterales
 ,Lsativum_v1.1,Lepidium_sativum,Core_eudicots/Rosids,Brassicales
+Musac_v1.0,Macuminata_v1,Musa_acuminata,Monocots/Commelinids,Zingiberales
 ,Mdomestica_v1.1,Malus_domestica,Core_eudicots/Rosids,Rosales
+Manes_v4.1,Mesculenta_v8.1,Manihot_esculenta,Core_eudicots/Rosids,Malpighiales
+Mimgu_v2.0,Mguttatus_v2.0,Mimulus_guttatus,Core_eudicots/Asterids,Lamiales
 ,Mmaritima_v1.1,Malcolmia_maritima,Core_eudicots/Rosids,Brassicales
 ,Mperfoliatum_v2.1,Myagrum_perfoliatum,Core_eudicots/Rosids,Brassicales
 ,MpusillaCCMP1545_v3.0,Micromonas_pusilla,Chlorophyta_algae,Mamiellales
@@ -72,36 +88,52 @@
 ,MspRCC299_v3.0,Micromonas_sp,Chlorophyta_algae,Mamiellales
 ,Mtruncatula_Mt4.0v1,Medicago_truncatula,Core_eudicots/Rosids,Fabales
 ,Ncolorata_v1.2b,Nymphaea_colorata,Basal_angiosperms,Nymphaeales
+TORX,Oeuropaea_v1.0,Olea_europaea,Core_eudicots/Asterids,Lamiales
 ,Olucimarinus_v2.0,Ostreococcus_lucimarinus,Chlorophyta_algae,Mamiellales
+Orysa_v7.0,Osativa_v7.0,Oryza_sativa,Monocots/Commelinids,Poales
 ,Othomaeum_v1.0,Oropetium_thomaeum,Monocots/Commelinids,Poales
 ,Pacutifolius_WLD_v2.0,Phaseolus_acutifolius,Core_eudicots/Rosids,Fabales
 ,Pamilis_v1.0,Portulaca_amilis,Eudicots,Caryophyllales
 ,PdeltoidesWV94_v2.1,Populus_deltoides,Core_eudicots/Rosids,Malpighiales
 ,Phallii_v3.2,Panicum_hallii,Monocots/Commelinids,Poales
+EJCM,philippensis,Lindenbergia_philippensis,Core_eudicots/Asterids,Lamiales
 ,Platifolius_v1.1,Pharus_latifolius,Monocots/Commelinids,Poales
 ,Plunatus_V1,Phaseolus_lunatus,Core_eudicots/Rosids,Fabales
+Phypa_v3.0,Ppatens_v3.3,Physcomitrella_patens,Bryophytes,Funariales
+Prupe_v1.0,Ppersica_v2.1,Prunus_persica,Core_eudicots/Rosids,Rosales
+Poptr_v3.0,Ptrichocarpa_v4.1,Populus_trichocarpa,Core_eudicots/Rosids,Malpighiales
 ,Ptrifoliata_v1.3.1,Poncirus_trifoliata,Core_eudicots/Rosids,Sapindales
 ,Pumbilicalis_v1.5,Porphyra_umbilicalis,Red_algae,Bangiales
 ,Pvaginatum_v3.1,Paspalum_vaginatum,Monocots/Commelinids,Poales
 ,Pvirgatum_v5.1,Panicum_virgatum,Monocots/Commelinids,Poales
+Phavu_v1.0,Pvulgaris_v2.1,Phaseolus_vulgaris,Core_eudicots/Rosids,Fabales
 ,Qrubra_v2.1,Quercus_rubra,Core_eudicots/Rosids,Fagales
+PAZJ,Rcommunis_v0.1,Ricinus_communis,Core_eudicots/Rosids,Malpighiales
 ,Rislandica_v1.1,Rorippa_islandica,Core_eudicots/Rosids,Brassicales
+VMNH,Salba_v3.1,Sinapis_alba,Core_eudicots/Rosids,Brassicales
+Sorbi_v2.1,Sbicolor_v3.1.1,Sorghum_bicolor,Monocots/Commelinids,Poales
 ,Sfallax_v1.1,Sphagnum_fallax,Bryophytes,Sphagnales
 ,Sitalica_v2.2,Setaria_italica,Monocots/Commelinids,Poales
+Solly_iTAGv2.3,Slycopersicum_ITAG4.0,Solanum_lycopersicum,Core_eudicots/Asterids,Solanales
 ,Smagellanicum_v1.1,Sphagnum magellanicum,Bryophytes,Sphagnales
+ZZOL,Smoellendorffii_v1.0,Selaginella_moellendorffii,Lycophytes,Selaginellales
 ,Soleracea_Spov3,Spinacia_oleracea,Eudicots,Caryophyllales
 ,Sparvula_v2.2,Schrenkiella_parvula,Core_eudicots/Rosids,Brassicales
 ,Spinnata_v1.1,Stanleya_pinnata,Core_eudicots/Rosids,Brassicales
+Spipo_v2,Spolyrhiza_v2,Spirodela_polyrhiza,Monocots/Commelinids,Alismatales
+LFOG,Spurpurea_v5.1,Salix_purpurea,Core_eudicots/Rosids,Malpighiales
 ,Stuberosum_v6.1,Solanum_tuberosum,Core_eudicots/Asterids,Solanales
 ,Sviridis_v2.1,Setaria_viridis,Monocots/Commelinids,Poales
 ,Taestivum_v2.2,Triticum_aestivum,Monocots/Commelinids,Poales
 ,Tarvense_v1.1,Thlaspi_arvense,Core_eudicots/Rosids,Brassicales
 ,Tintermedium_v2.1,Thinopyrum_intermedium,Monocots/Commelinids,Poales
+VFYZ,Tplicata_v3.1,Thuja_plicata,Acrogymnospermae,Pinales
 ,Tpratense_v2,Trifolium_pratense,Core_eudicots/Rosids,Fabales
 ,Ufusca_v1.1,Urochloa_fusca,Monocots/Commelinids,Poales
 ,Vcarteri_v2.1,Volvox_carteri,Chlorophyta_algae,Chlamydomonadales
 ,Vdarrowii_v1.2,Vaccinium_darrowii,Core_eudicots/Asterids,Ericales
 ,Vunguiculata_v1.2,Vigna_unguiculata,Core_eudicots/Rosids,Fabales
+Vitvi_Genoscope.12X,Vvinifera_v2.1,Vitis_vinifera,Core_eudicots/Rosids,Vitales
 ,Zmarina_v3.1,Zostera_marina,Monocots/Commelinids,Alismatales
 ,Zmays_RefGen_V4,Zea_mays,Monocots/Commelinids,Poales
 YZGX,,_unknown,Core_eudicots/Asterids,Lamiales
@@ -110,7 +142,6 @@ ZCDJ,,Acacia_argyrophylla,Core_eudicots/Rosids,Fabales
 PJSX,,Acacia_pycnantha,Core_eudicots/Rosids,Fabales
 VFFP,,Acer_negundo,Core_eudicots/Rosids,Sapindales
 HILW,,Acmopyle_pancheri,Acrogymnospermae,Pinales
-MTII,,Acorus_americanus,Monocots/Commelinids,Acorales
 QAUE,,Actinidia_chinensis,Core_eudicots/Asterids,Ericales
 WCLG,,Adiantum_aleuticum,LeptosporangiateFerns,Polypodiales
 BMJR,,Adiantum_raddianum,LeptosporangiateFerns,Polypodiales
@@ -141,7 +172,6 @@ EYRD,,Alternanthera_tenella,Eudicots,Caryophyllales
 XSSD,,Amaranthus_cruentus,Eudicots,Caryophyllales
 WMLW,,Amaranthus_retroflexus,Eudicots,Caryophyllales
 LDME,,Amaryllis_belladonna,Monocots/Commelinids,Asparagales
-Ambtr_v1.0.27,,Amborella_trichopoda,Basal_angiosperms,Amborellales
 EAVM,,Amelanchier_canadensis,Core_eudicots/Rosids,Rosales
 IAJW,,Amentotaxus_argotaenia,Acrogymnospermae,Pinales
 WOGB,,Andreaea_rupestris,Bryophytes,Andreaeales
@@ -161,7 +191,6 @@ XISJ,,Antirrhinum_majus,Core_eudicots/Asterids,Lamiales
 TOKV,,Aphanopetalum_resinosum,Core_eudicots,Saxifragales
 NXOH,,Apios_americana,Core_eudicots/Rosids,Fabales
 JCLQ,,Apocynum_androsaemifolium,Core_eudicots/Asterids,Gentianales
-Aquco_v1.1,,Aquilegia_coerulea,Eudicots,Ranunculales
 Arath_TAIR10,,Arabidopsis_thaliana,Core_eudicots/Rosids,Brassicales
 TZWR,,Arabis_alpina,Core_eudicots/Rosids,Brassicales
 XTZO,,Araucaria_rulei,Acrogymnospermae,Pinales
@@ -211,7 +240,6 @@ OCTM,,Begonia_sp.,Core_eudicots/Rosids,Cucurbitales
 HAEU,,Berberidopsis_beckleri,Eudicots,Berberidopsidales
 CIAC,,Bergenia_sp.,Core_eudicots,Saxifragales
 FVXD,,Beta_maritima,Eudicots,Caryophyllales
-Betvu_v1.1,,Beta_vulgaris,Eudicots,Caryophyllales
 CWZU,,Betula_pendula,Core_eudicots/Rosids,Fagales
 VNMY,,Bischofia_javanica,Core_eudicots/Rosids,Malpighiales
 TVSH,,Bituminaria_bituminosa,Core_eudicots/Rosids,Fabales
@@ -249,7 +277,6 @@ SJEV,,Canella_winterana,Magnoliids,Canellales
 TZNS,,Canna_sp.,Monocots/Commelinids,Zingiberales
 BJSW,,Cannabis_sativa,Core_eudicots/Rosids,Rosales
 AUGV,,Capnoides_sempervirens,Eudicots,Ranunculales
-Carpa_ASGPBv0.4,,Carica_papaya,Core_eudicots/Rosids,Brassicales
 CFRN,,Carthamus_lanatus,Core_eudicots/Asterids,Asterales
 VYLQ,,Cassytha_filiformis,Magnoliids,Laurales
 NHUA,,Castanea_crenata,Core_eudicots/Rosids,Fagales
@@ -265,7 +292,6 @@ WEQK,,Centella_asiatica,Core_eudicots/Asterids,Apiales
 NVGZ,,Cephalotaxus_harringtonia,Acrogymnospermae,Pinales
 YZVJ,,Cephalotus_follicularis,Core_eudicots/Rosids,Oxalidales
 UDHA,,Ceratocapnos_vesicaria,Eudicots,Ranunculales
-FFPD,,Ceratodon_purpureus,Bryophytes,Dicranales
 NPND,,Ceratophyllum_demersum,Hornworts,Ceratophyllales
 PIVW,,Ceratopteris_thalictroides,LeptosporangiateFerns,Polypodiales
 NUZN,,Cercidiphyllum_japonicum,Core_eudicots,Saxifragales
@@ -273,7 +299,6 @@ RKFX,,Cercis_canadensis,Core_eudicots/Rosids,Fabales
 XFFT,,Cercocarpus_ledifolius,Core_eudicots/Rosids,Rosales
 AIGO,,Chamaecyparis_lawsoniana,Acrogymnospermae,Pinales
 XMVD,,Chelidonium_majus,Eudicots,Ranunculales
-SMMC,,Chenopodium_quinoa,Eudicots,Caryophyllales
 KTAR,,Chionanthus_retusus,Core_eudicots/Asterids,Lamiales
 PLBZ,,Chlorogalum_pomeridianum,Monocots/Commelinids,Asparagales
 BSTR,,Chondropetalum_tectorum,Monocots/Commelinids,Poales
@@ -287,7 +312,6 @@ UHJR,,Citrus_x_paradisi,Core_eudicots/Rosids,Sapindales
 SLYR,,Cladrastis_lutea,Core_eudicots/Rosids,Fabales
 VBMM,,Claopodium_rostratum,Bryophytes,Hypnales
 VDKG,,Cleome_gynandra,Core_eudicots/Rosids,Brassicales
-LVUS,,Cleome_violacea,Core_eudicots/Rosids,Brassicales
 UPZX,,Cleome_viscosa,Core_eudicots/Rosids,Brassicales
 MIRS,,Climacium_dendroides,Bryophytes,Hypnales
 CSUV,,Cochlearia_officinalis,Core_eudicots/Rosids,Brassicales
@@ -377,7 +401,6 @@ EMAL,,Ehretia_acuminata,Core_eudicots/Asterids,Boraginales
 RBYC,,Elaeagnus_pungens,Core_eudicots/Rosids,Rosales
 Elagu_v2.0,,Elaeis_guineensis,Monocots/Commelinids,Arecales
 THHD,,Elaeocarpus_sylvestris,Core_eudicots/Rosids,Oxalidales
-EFCZ,,Eleusine_coracana,Monocots/Commelinids,Poales
 KEFD,,Encalypta_streptocarpa,Bryophytes,Encalyptales
 GNQG,,Encephalartos_barteri,Acrogymnospermae,Cycadales
 VDAO,,Ephedra_sinica,Acrogymnospermae,Gnetales
@@ -391,7 +414,6 @@ RPPC,,Erythroxylum_coca,Core_eudicots/Rosids,Malpighiales
 CLMX,,Escallonia_rubra,Core_eudicots/Asterids,Escalloniales
 CLNU,,Escallonia_sp._cv._Newport,Core_eudicots/Asterids,Escalloniales
 EVOD,,Eschscholzia_californica,Eudicots,Ranunculales
-Eucgr_v1.1,,Eucalyptus_grandis,Core_eudicots/Rosids,Myrtales
 AYMT,,Eucalyptus_leucoxylon,Core_eudicots/Rosids,Myrtales
 SZUO,,Eucommia_ulmoides,Core_eudicots/Asterids,Garryales
 RHAU,,Euphorbia_mesembryanthemifolia,Core_eudicots/Rosids,Malpighiales
@@ -434,7 +456,6 @@ SGTW,,Ginkgo_biloba,Acrogymnospermae,Ginkgoales
 VHZV,,Gleditsia_sinensis,Core_eudicots/Rosids,Fabales
 GEHT,,Gleditsia_triacanthos,Core_eudicots/Rosids,Fabales
 GDKK,,Gloriosa_superba,Monocots/Commelinids,Liliales
-KEGA,,Glycine_soja,Core_eudicots/Rosids,Fabales
 PEZP,,Glycyrrhiza_glabra,Core_eudicots/Rosids,Fabales
 JTQQ,,Glycyrrhiza_lepidota,Core_eudicots/Rosids,Fabales
 OXGJ,,Glyptostrobus_pensilis,Acrogymnospermae,Pinales
@@ -487,7 +508,6 @@ GKAG,,Huperzia_lucidula,Lycophytes,Lycopodiales
 CBAE,,Huperzia_myrsinites,Lycophytes,Lycopodiales
 YHZW,,Huperzia_selago,Lycophytes,Lycopodiales
 GAON,,Huperzia_squarrosa,Lycophytes,Lycopodiales
-ZETY,,Hydrangea_quercifolia,Core_eudicots/Asterids,Cornales
 VGHH,,Hydrastis_canadensis,Eudicots,Ranunculales
 OINM,,Hydrocotyle_umbellata,Core_eudicots/Asterids,Apiales
 QIAD,,Hymenophyllum_bivalve,LeptosporangiateFerns,Hymenophyllales
@@ -516,7 +536,6 @@ PKOX,,Isoetes_tegetiformans,Lycophytes,Isoetales
 UWFU,,Itea_virginica,Core_eudicots,Saxifragales
 PTFA,,Jacquinia_sp.,Core_eudicots/Asterids,Ericales
 WTDE,,Johnsonia_pubescens,Monocots/Commelinids,Asparagales
-WXNT,,Joinvillea_ascendens,Monocots/Commelinids,Poales
 DXQW,,Juglans_nigra,Core_eudicots/Rosids,Fagales
 CIEA,,Juncus_inflexus,Monocots/Commelinids,Poales
 XMGP,,Juniperus_scopulorum,Acrogymnospermae,Pinales
@@ -553,7 +572,6 @@ MZLD,,Ligustrum_sinense,Core_eudicots/Asterids,Lamiales
 THEW,,Lilium_sargentiae,Monocots/Commelinids,Liliales
 CRNC,,Limnanthes_douglasii,Core_eudicots/Rosids,Brassicales
 WOBD,,Limonium_spectabile,Eudicots,Caryophyllales
-EJCM,,Lindenbergia_philippensis,Core_eudicots/Asterids,Lamiales
 KAYP,,Lindera_benzoin,Magnoliids,Laurales
 NOKI,,Lindsaea_linearis,LeptosporangiateFerns,Polypodiales
 YIXP,,Lindsaea_microphylla,LeptosporangiateFerns,Polypodiales
@@ -595,7 +613,6 @@ COAQ,,Malesherbia_fasciculata,Core_eudicots/Rosids,Malpighiales
 BOGT,,Mallomonas_sp.,Outgroup,Chrysophyta
 VCIN,,Malus_baccata,Core_eudicots/Rosids,Rosales
 NFXV,,Mammea_americana,Core_eudicots/Rosids,Malpighiales
-Manes_v4.1,,Manihot_esculenta,Core_eudicots/Rosids,Malpighiales
 XNLP,,Manihot_grahamii,Core_eudicots/Rosids,Malpighiales
 BEFC,,Manilkara_zapota,Core_eudicots/Asterids,Ericales
 CDFR,,Manoao_colensoi,Acrogymnospermae,Pinales
@@ -625,7 +642,6 @@ WHNV,,Micromeria_fruticosa,Core_eudicots/Asterids,Lamiales
 YPIC,,Microstegium_vimineum,Monocots/Commelinids,Poales
 BBDD,,Microstrobos_fitzgeraldii,Acrogymnospermae,Pinales
 YNFJ,,Microtea_debilis,Eudicots,Caryophyllales
-Mimgu_v2.0,,Mimulus_guttatus,Core_eudicots/Asterids,Lamiales
 JGAB,,Mirabilis_jalapa,Eudicots,Caryophyllales
 DAYQ,,Mitella_pentandra,Core_eudicots,Saxifragales
 RNBN,,Mollugo_cerviana,Eudicots,Caryophyllales
@@ -636,7 +652,6 @@ LRTN,,Monotropa_uniflora,Core_eudicots/Asterids,Ericales
 CZPV,,Moringa_oleifera,Core_eudicots/Rosids,Brassicales
 XVJB,,Morus_nigra,Core_eudicots/Rosids,Rosales
 ATFX,,Muntingia_calabura,Core_eudicots/Rosids,Malvales
-Musac_v1.0,,Musa_acuminata,Monocots/Commelinids,Zingiberales
 AJFN,,Myodocarpus_sp.,Core_eudicots/Asterids,Apiales
 INSP,,Myrica_cerifera,Core_eudicots/Rosids,Fagales
 IUSR,,Myriophyllum_aquaticum,Core_eudicots,Saxifragales
@@ -691,7 +706,6 @@ SJAN,,Oenothera_serrulata,Core_eudicots/Rosids,Myrtales
 TLCA,,Oenothera_speciosa,Core_eudicots/Rosids,Myrtales
 JKNQ,,Oenothera_suffulta_suffulta,Core_eudicots/Rosids,Myrtales
 HKMQ,,Oenothera_villaricae,Core_eudicots/Rosids,Myrtales
-TORX,,Olea_europaea,Core_eudicots/Asterids,Lamiales
 CNTZ,,Oncidium_sphacelatum,Monocots/Commelinids,Asparagales
 HTFH,,Onoclea_sensibilis,LeptosporangiateFerns,Polypodiales
 DJSE,,Ophioglossum_petiolatum,Ferns,Ophioglossales
@@ -699,7 +713,6 @@ LSKK,,Orchidantha_maxillarioides,Monocots/Commelinids,Zingiberales
 UHBY,,Oresitrophe_rupifraga,Core_eudicots,Saxifragales
 VYDM,,Orobanche_fasciculata,Core_eudicots/Asterids,Lamiales
 CMEQ,,Orthotrichum_lyellii,Bryophytes,Orthotrichales
-Orysa_v7.0,,Oryza_sativa,Monocots/Commelinids,Poales
 VIBO,,Osmunda_javanica,LeptosporangiateFerns,Osmundales
 UOMY,,Osmunda_sp.,LeptosporangiateFerns,Osmundales
 RFMZ,,Osmundastrum_cinnamomeum,LeptosporangiateFerns,Osmundales
@@ -738,7 +751,6 @@ KRJP,,Peumus_boldus,Magnoliids,Laurales
 YQIJ,,Phacelia_campanularia,Core_eudicots/Asterids,Boraginales
 WCZB,,Phaeoceros_carolinianus,Hornworts,Anthocerotales
 AKXB,,Phaeomegaceros_coriaceus,Hornworts,Dendrocerotales
-Phavu_v1.0,,Phaseolus_vulgaris,Core_eudicots/Rosids,Fabales
 AUIP,,Phelline_lucida,Core_eudicots/Asterids,Asterales
 ORKS,,Philonotis_fontana,Bryophytes,Bartramiales
 ZQYU,,Phlebodium_pseudoaureum,LeptosporangiateFerns,Polypodiales
@@ -753,7 +765,6 @@ YGAT,,Phyllanthus_sp.,Core_eudicots/Rosids,Malpighiales
 JRNA,,Phyllocladus_hypophyllus,Acrogymnospermae,Pinales
 ZZEI,,Phylloglossum_drummondii,Lycophytes,Lycopodiales
 ORJE,,Phymatosorus_grossus,LeptosporangiateFerns,Polypodiales
-Phypa_v3.0,,Physcomitrella_patens,Bryophytes,Funariales
 YEPO,,Physcomitrium_sp.,Bryophytes,Funariales
 RUUB,,Physena_madagascariensis,Eudicots,Caryophyllales
 SXCE,,Physocarpus_opulifolius,Core_eudicots/Rosids,Rosales
@@ -800,7 +811,6 @@ COBX,,Polypremum_procumbens,Core_eudicots/Asterids,Lamiales
 EDBB,,Polyscias_fruticosa,Core_eudicots/Asterids,Apiales
 FQGQ,,Polystichum_acrostichoides,LeptosporangiateFerns,Polypodiales
 SZYG,,Polytrichum_commune,Bryophytes,Polytrichales
-Poptr_v3.0,,Populus_trichocarpa,Core_eudicots/Rosids,Malpighiales
 KRUQ,,Porella_navicularis,Liverworts,Porellales
 UUHD,,Porella_pinnata,Liverworts,Porellales
 LDEL,,Portulaca_amilis,Eudicots,Caryophyllales
@@ -815,7 +825,6 @@ BYQM,,Posidonia_australis,Monocots/Commelinids,Alismatales
 IRZA,,Proteomonas_sulcata,Outgroup,Outgroup
 EGLZ,,Prumnopitys_andina,Acrogymnospermae,Pinales
 PHCE,,Prunella_vulgaris,Core_eudicots/Asterids,Lamiales
-Prupe_v1.0,,Prunus_persica,Core_eudicots/Rosids,Rosales
 NCVK,,Prunus_prostrata,Core_eudicots/Rosids,Rosales
 LXRN,,Prymnesium_parvum,Outgroup,Haptophyceae
 AQFM,,Pseudolarix_amabilis,Acrogymnospermae,Pinales
@@ -855,7 +864,6 @@ YUOM,,Rhus_radicans,Core_eudicots/Rosids,Sapindales
 JADL,,Rhynchostegium_serrulatum,Bryophytes,Hypnales
 SYHW,,Ribes_aff._giraldii,Core_eudicots,Saxifragales
 WJLO,,Ricciocarpos_natans,Liverworts,Marchantiales
-PAZJ,,Ricinus_communis,Core_eudicots/Rosids,Malpighiales
 HUSX,,Roridula_gorgonias,Core_eudicots/Asterids,Ericales
 IANR,,Rosa_palustris,Core_eudicots/Rosids,Rosales
 FDMM,,Rosmarinus_officinalis,Core_eudicots/Asterids,Lamiales
@@ -871,7 +879,6 @@ INQX,,Salix_acutifolia,Core_eudicots/Rosids,Malpighiales
 IEPQ,,Salix_dasyclados,Core_eudicots/Rosids,Malpighiales
 GLVK,,Salix_eriocephala,Core_eudicots/Rosids,Malpighiales
 RZTJ,,Salix_fargesii,Core_eudicots/Rosids,Malpighiales
-LFOG,,Salix_purpurea,Core_eudicots/Rosids,Malpighiales
 TDTF,,Salix_sachalinensis,Core_eudicots/Rosids,Malpighiales
 KKDQ,,Salix_viminalis,Core_eudicots/Rosids,Malpighiales
 RTTY,,Salvadora_sp.,Core_eudicots/Rosids,Brassicales
@@ -916,7 +923,6 @@ ZYCD,,Selaginella_acanthonota,Lycophytes,Selaginellales
 LGDQ,,Selaginella_apoda,Lycophytes,Selaginellales
 ABIJ,,Selaginella_cf._pallescens,Lycophytes,Selaginellales
 ZFGK,,Selaginella_kraussiana,Lycophytes,Selaginellales
-ZZOL,,Selaginella_moellendorffii,Lycophytes,Selaginellales
 KUXM,,Selaginella_selaginoides,Lycophytes,Selaginellales
 JKAA,,Selaginella_wallacei,Lycophytes,Selaginellales
 KJYC,,Selaginella_willdenowii,Lycophytes,Selaginellales
@@ -931,28 +937,24 @@ OXYP,,Sideroxylon_reclinatum,Core_eudicots/Asterids,Ericales
 FZQN,,Silene_latifolia,Eudicots,Caryophyllales
 EYKJ,,Silybum_marianum,Core_eudicots/Asterids,Asterales
 CVDF,,Simmondsia_chinensis,Eudicots,Caryophyllales
-VMNH,,Sinapis_alba,Core_eudicots/Rosids,Brassicales
 DTNC,,Sinningia_tuberosa,Core_eudicots/Asterids,Lamiales
 AXBO,,Sinojackia_xylocarpa,Core_eudicots/Asterids,Ericales
 LTZF,,Sisyrinchium_angustifolium,Monocots/Commelinids,Asparagales
 MWYQ,,Smilax_bona-nox,Monocots/Commelinids,Liliales
 GHLP,,Solanum_dulcamara,Core_eudicots/Asterids,Solanales
 DLAI,,Solanum_lasiophyllum,Core_eudicots/Asterids,Solanales
-Solly_iTAGv2.3,,Solanum_lycopersicum,Core_eudicots/Asterids,Solanales
 DLJZ,,Solanum_ptychanthum,Core_eudicots/Asterids,Solanales
 NMDZ,,Solanum_sisymbriifolium,Core_eudicots/Asterids,Solanales
 LQJY,,Solanum_xanthocarpum,Core_eudicots/Asterids,Solanales
 BAHE,,Solenostemon_scutellarioides,Core_eudicots/Asterids,Lamiales
 TEZA,,Solidago_canadensis,Core_eudicots/Asterids,Asterales
 BLVL,,Sorbus_koehneana,Core_eudicots/Rosids,Rosales
-Sorbi_v2.1,,Sorghum_bicolor,Monocots/Commelinids,Poales
 BNTL,,Souroubea_exauriculata,Core_eudicots/Asterids,Ericales
 TJES,,Spergularia_media,Eudicots,Caryophyllales
 HERT,,Sphaerocarpos_texanus,Liverworts,Sphaerocarpales
 GOWD,,Sphagnum_lescurii,Bryophytes,Sphagnales
 RCBT,,Sphagnum_palustre,Bryophytes,Sphagnales
 UHLI,,Sphagnum_recurvum,Bryophytes,Sphagnales
-Spipo_v2,,Spirodela_polyrhiza,Monocots/Commelinids,Alismatales
 VYGG,,Stachyurus_praecox,Core_eudicots/Rosids,Crossosomatales
 MFEA,,Stackhousia_spathulata,Core_eudicots/Rosids,Celastrales
 KAWQ,,Stangeria_eriopus,Acrogymnospermae,Cycadales
@@ -996,7 +998,6 @@ MROH,,Thelypteris_acuminata,LeptosporangiateFerns,Polypodiales
 Theca_v1.1,,Theobroma_cacao,Core_eudicots/Rosids,Malvales
 AXAF,,Thladiantha_villosula,Core_eudicots/Rosids,Cucurbitales
 EEMJ,,Thuidium_delicatulum,Bryophytes,Hypnales
-VFYZ,,Thuja_plicata,Acrogymnospermae,Pinales
 NKIN,,Thujopsis_dolabrata,Acrogymnospermae,Pinales
 IYDF,,Thymus_vulgaris,Core_eudicots/Asterids,Lamiales
 XBKS,,Thyridolepis_mitchelliana,Monocots/Commelinids,Poales
@@ -1039,7 +1040,6 @@ HLJG,,Viburnum_odoratissimum,Core_eudicots/Asterids,Dipsacales
 NJLF,,Viola_canadensis,Core_eudicots/Rosids,Malpighiales
 LPGY,,Viola_tricolor,Core_eudicots/Rosids,Malpighiales
 DMLT,,Vitex_agnus-castus,Core_eudicots/Asterids,Lamiales
-Vitvi_Genoscope.12X,,Vitis_vinifera,Core_eudicots/Rosids,Vitales
 NDUV,,Vittaria_appalachiana,LeptosporangiateFerns,Polypodiales
 SKYV,,Vittaria_lineata,LeptosporangiateFerns,Polypodiales
 TOXE,,Welwitschia_mirabilis,Acrogymnospermae,Gnetales
